@@ -2,13 +2,11 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Home } from './components/Home';
-import { About } from './About';
-import { Projects } from './Projects';
-import { NoMatch } from './NoMatch';
-import { Layout } from './components/Layout';
+import { About } from './components/About';
+import { Projects } from './components/Projects';
+import { NoMatch } from './components/NoMatch';
+// import { Layout } from './components/Layout';
 import NavigationBar from './components/NavigationBar';
-import Jumbotron from './components/Jumbotron';
-import { Contact } from './components/Contact';
 import { Footer } from './components/Footer'
 
 class App extends Component { 
@@ -16,8 +14,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <NavigationBar />
-        <Jumbotron />
-        <Layout>
+        {/* <Layout> */}
          <Router>
             <Switch>
               <Route exact path='/' component={Home} />
@@ -26,8 +23,7 @@ class App extends Component {
               <Route  component={NoMatch} />
             </Switch>
         </Router>
-        <Contact />
-        </Layout>
+        {/* </Layout> */}
         <Footer/>
       </React.Fragment>
     );
