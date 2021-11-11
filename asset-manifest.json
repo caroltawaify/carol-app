@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/carol-app/static/css/main.9a27784b.chunk.css",
-    "main.js": "/carol-app/static/js/main.e49f9114.chunk.js",
-    "main.js.map": "/carol-app/static/js/main.e49f9114.chunk.js.map",
+    "main.js": "/carol-app/static/js/main.cd3e902e.chunk.js",
+    "main.js.map": "/carol-app/static/js/main.cd3e902e.chunk.js.map",
     "runtime-main.js": "/carol-app/static/js/runtime-main.455ee5ec.js",
     "runtime-main.js.map": "/carol-app/static/js/runtime-main.455ee5ec.js.map",
     "static/css/2.f2512455.chunk.css": "/carol-app/static/css/2.f2512455.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.f2512455.chunk.css",
     "static/js/2.d2e291d9.chunk.js",
     "static/css/main.9a27784b.chunk.css",
-    "static/js/main.e49f9114.chunk.js"
+    "static/js/main.cd3e902e.chunk.js"
   ]
 }
