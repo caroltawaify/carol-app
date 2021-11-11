@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/carol-app/static/css/main.9a27784b.chunk.css",
-    "main.js": "/carol-app/static/js/main.cd3e902e.chunk.js",
-    "main.js.map": "/carol-app/static/js/main.cd3e902e.chunk.js.map",
+    "main.js": "/carol-app/static/js/main.e19f59d5.chunk.js",
+    "main.js.map": "/carol-app/static/js/main.e19f59d5.chunk.js.map",
     "runtime-main.js": "/carol-app/static/js/runtime-main.455ee5ec.js",
     "runtime-main.js.map": "/carol-app/static/js/runtime-main.455ee5ec.js.map",
     "static/css/2.f2512455.chunk.css": "/carol-app/static/css/2.f2512455.chunk.css",
-    "static/js/2.d2e291d9.chunk.js": "/carol-app/static/js/2.d2e291d9.chunk.js",
-    "static/js/2.d2e291d9.chunk.js.map": "/carol-app/static/js/2.d2e291d9.chunk.js.map",
+    "static/js/2.65552dd4.chunk.js": "/carol-app/static/js/2.65552dd4.chunk.js",
+    "static/js/2.65552dd4.chunk.js.map": "/carol-app/static/js/2.65552dd4.chunk.js.map",
     "static/js/3.ddab47ca.chunk.js": "/carol-app/static/js/3.ddab47ca.chunk.js",
     "static/js/3.ddab47ca.chunk.js.map": "/carol-app/static/js/3.ddab47ca.chunk.js.map",
     "index.html": "/carol-app/index.html",
     "static/css/2.f2512455.chunk.css.map": "/carol-app/static/css/2.f2512455.chunk.css.map",
     "static/css/main.9a27784b.chunk.css.map": "/carol-app/static/css/main.9a27784b.chunk.css.map",
-    "static/js/2.d2e291d9.chunk.js.LICENSE.txt": "/carol-app/static/js/2.d2e291d9.chunk.js.LICENSE.txt",
+    "static/js/2.65552dd4.chunk.js.LICENSE.txt": "/carol-app/static/js/2.65552dd4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/carol-app/static/media/background.513e2d85.jpg",
     "static/media/carol.6ea78ccf.jpg": "/carol-app/static/media/carol.6ea78ccf.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.455ee5ec.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.d2e291d9.chunk.js",
+    "static/js/2.65552dd4.chunk.js",
     "static/css/main.9a27784b.chunk.css",
-    "static/js/main.cd3e902e.chunk.js"
+    "static/js/main.e19f59d5.chunk.js"
   ]
 }
